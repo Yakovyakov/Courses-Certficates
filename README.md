@@ -35,7 +35,7 @@ Credits:
 
 - (1 cr, CSM14113)
 
-Certificate course GraphQL part 8
+Certificate module GraphQL part 8
 
 - Part 8: GraphQL
 
@@ -45,7 +45,7 @@ Credits:
 
 - (1 cr, CSM14110)
 
-Certificate course TypeScript part 9
+Certificate module TypeScript part 9
 
 - Part 9: TypeScript
 
@@ -55,6 +55,16 @@ Credits:
 
 - (2 cr, CSM14111)
 
-Certificate course React Native part 10
+Certificate module React Native part 10
 
 - Part 10: React Native
+
+## certificate-cicd
+
+Credits:
+
+- (1 cr, CSM14112)
+
+Certificate module Continuous Integration / Continuous Delivery part 11
+
+- Part 11: Continuous Integration / Continuous Delivery
