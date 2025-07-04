@@ -2,7 +2,7 @@
 
 Certificate Test-Driven Develoment: Full Stack
 
-## [certificate-fullstack](./certificate-tdd.png)
+## [certificate-tdd](./certificate-tdd.png)
 
 Credits:
 
