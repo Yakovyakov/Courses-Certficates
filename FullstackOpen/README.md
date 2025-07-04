@@ -79,4 +79,14 @@ Certificate module Containers
 
 - Part 12 - Containers
 
+## [certificate-psql](./certificate-psql.png)
+
+Credits:
+
+- (1 cr, CSM14114)
+
+Certificate module Relational databases
+
+- Part 13 - Relational databases
+
 ## [Back](../README.md)
