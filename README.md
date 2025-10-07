@@ -15,7 +15,6 @@
 
 ## MoureDev + BIG School
 
-- [Introduction to AI Development](./institutions/mouredev-big-school/introduction-to-ai-development/)  
+- [Introduction to AI Development](./institutions/big-school/introduction-to-ai-development/)  
   Free live course on integrating AI into software development workflows, taught by top developers and AI experts.  
   🔗 [Course page](https://newsletter.moure.dev/p/cursodevia)
-  
