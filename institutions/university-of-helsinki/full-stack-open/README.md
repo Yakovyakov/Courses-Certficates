@@ -1,8 +1,12 @@
-# Fullstack-open-cousre-certficate
+# Full Stack Open – University of Helsinki
 
-Certificate course fullstack open
+Deep Dive Into Modern Web Development
 
-## [certificate-fullstack](./certificate-fullstack.png)
+- [Official course website](https://fullstackopen.com/)
+
+## Core Course Module
+
+![Core Course Certificate](./certificate-fullstack.png)
 
 Credits:
 
@@ -29,7 +33,9 @@ Extension 2:
 
 - Part 7: React router, custom hooks, styling app with CSS and webpack
 
-## [certificate-graphql](./certificate-graphql.png)
+## Graphql Module
+
+![certificate-graphql](./certificate-graphql.png)
 
 Credits:
 
@@ -39,7 +45,9 @@ Certificate module GraphQL part 8
 
 - Part 8: GraphQL
 
-## [certificate-typescript](./certificate-typescript.png)
+## TypeScript Module
+
+![certificate-typescript](./certificate-typescript.png)
 
 Credits:
 
@@ -49,7 +57,9 @@ Certificate module TypeScript part 9
 
 - Part 9: TypeScript
 
-## [certificate-reactnative](./certificate-reactnative.png)
+## React Native Module
+
+![certificate-reactnative](./certificate-reactnative.png)
 
 Credits:
 
@@ -59,7 +69,9 @@ Certificate module React Native part 10
 
 - Part 10: React Native
 
-## [certificate-cicd](./certificate-cicd.png)
+## Continuous Integration / Continuous Delivery Module
+
+![certificate-cicd](./certificate-cicd.png)
 
 Credits:
 
@@ -69,7 +81,9 @@ Certificate module Continuous Integration / Continuous Delivery part 11
 
 - Part 11: Continuous Integration / Continuous Delivery
 
-## [certificate-containers](./certificate-containers.png)
+## Containers Module
+
+![certificate-containers](./certificate-containers.png)
 
 Credits:
 
@@ -79,7 +93,9 @@ Certificate module Containers
 
 - Part 12 - Containers
 
-## [certificate-psql](./certificate-psql.png)
+## Relational databases Module
+
+![certificate-psql](./certificate-psql.png)
 
 Credits:
 
@@ -89,4 +105,4 @@ Certificate module Relational databases
 
 - Part 13 - Relational databases
 
-## [Back](../README.md)
+## [Back to course list](../../../README.md)
