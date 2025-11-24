@@ -18,3 +18,8 @@
 - [Introduction to AI Development](./institutions/big-school/introduction-to-ai-development/)  
   Free live course on integrating AI into software development workflows, taught by top developers and AI experts.  
   🔗 [Course page](https://newsletter.moure.dev/p/cursodevia)
+
+## Analytics Vidhya
+
+- [Machine Learning Certification Course for Beginners](./institutions/analytics-vidhya/machine-learning-beginners/)  
+  Complete ML workflow with Python: data cleaning, EDA, feature engineering, model tuning and evaluation.
