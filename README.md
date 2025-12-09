@@ -26,5 +26,6 @@
 
 - [Introduction to Transformers and Attention Mechanisms](./institutions/analytics-vidhya/introduction-to-transformers/)
   Foundation course covering Transformer architecture, self-attention mechanisms, and their applications in modern NLP models.
+
   🔗 [Course page](https://www.analyticsvidhya.com/courses/introduction-to-transformers-and-attention-mechanisms/)
   
