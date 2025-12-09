@@ -2,6 +2,8 @@
 
 Free introductory programme that covers the complete machine-learning workflow with Python: from environment set-up and data cleaning to feature engineering, model selection and evaluation.
 
+![Completed](https://img.shields.io/badge/status-completed-brightgreen)
+
 ## 📜 Certificate Details
 
 - **Date**: November 25, 2025  
@@ -28,6 +30,6 @@ Free introductory programme that covers the complete machine-learning workflow w
 
 Python 3 | Jupyter Lab | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-![Completed](https://img.shields.io/badge/status-completed-brightgreen)
+---
 
 [Back to course list](../../../README.md)
