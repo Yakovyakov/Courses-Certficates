@@ -23,3 +23,8 @@
 
 - [Machine Learning Certification Course for Beginners](./institutions/analytics-vidhya/machine-learning-beginners/)  
   Complete ML workflow with Python: data cleaning, EDA, feature engineering, model tuning and evaluation.
+
+- [Introduction to Transformers and Attention Mechanisms](./institutions/analytics-vidhya/introduction-to-transformers/)
+  Foundation course covering Transformer architecture, self-attention mechanisms, and their applications in modern NLP models.
+  🔗 [Course page](https://www.analyticsvidhya.com/courses/introduction-to-transformers-and-attention-mechanisms/)
+  
