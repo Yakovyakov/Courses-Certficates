@@ -24,8 +24,12 @@
 - [Machine Learning Certification Course for Beginners](./institutions/analytics-vidhya/machine-learning-beginners/)  
   Complete ML workflow with Python: data cleaning, EDA, feature engineering, model tuning and evaluation.
 
-- [Introduction to Transformers and Attention Mechanisms](./institutions/analytics-vidhya/introduction-to-transformers/)
+- [Introduction to Transformers and Attention Mechanisms](./institutions/analytics-vidhya/introduction-to-transformers/)  
   Foundation course covering Transformer architecture, self-attention mechanisms, and their applications in modern NLP models.
-
   🔗 [Course page](https://www.analyticsvidhya.com/courses/introduction-to-transformers-and-attention-mechanisms/)
-  
+
+## freeCodeCamp
+
+- [Python Certification](./institutions/freecodecamp/python-v9-certification/)  
+  Comprehensive curriculum covering Python fundamentals, data structures, algorithms, dynamic programming, object-oriented programming, and development of five hands-on projects.  
+  🔗 [Course Page](https://www.freecodecamp.org/learn/python-v9)
